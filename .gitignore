@@ -14,3 +14,8 @@ Thumbs.db
 
 # Secrets
 .env
+
+# Directories
+/archive
+/images
+/reference
